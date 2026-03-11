@@ -1,0 +1,1 @@
+# cot-scratchpad-research
