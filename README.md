@@ -3,7 +3,7 @@
 
 **Researcher:** Tayyaba Jadoon | Dickinson College COMP560  
 **Supervisors:** Prof. MacCormick, Prof. Goble, Prof. Ferland  
-**Status:** In progress · ArXiv preprint planned 2026
+**Status:** In progress 
 
 ## Overview
 Controlled experiments comparing three training approaches on 
