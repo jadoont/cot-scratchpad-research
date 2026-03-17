@@ -2,6 +2,14 @@
 
 ## Direct vs Chain-of-Thought vs Scratchpad on Algorithmic Addition
 
+## TL;DR 🔥
+
+Small transformers can learn addition perfectly in-distribution but completely fail to generalize to longer inputs — even with explicit reasoning (Chain-of-Thought).
+
+Reversing the digit representation makes the task learnable, but does not fix generalization.
+
+→ Suggests models may memorize reasoning patterns rather than learn true algorithms.
+
 This project studies whether reasoning structure helps small transformer models trained from scratch solve addition tasks and generalize beyond the training distribution.
 
 ## Current Research Question
