@@ -33,6 +33,11 @@ For the **reversed Chain-of-Thought model**:
 
 This suggests that even when the model learns accurate step-by-step reasoning traces on in-distribution tasks, it still does not generalize the algorithm to longer inputs.
 
+## Example Evaluation Output
+
+<img width="708" height="824" alt="reversed eval result - direct" src="https://github.com/user-attachments/assets/a08d76f3-4ced-48c0-afa1-f30f50520176" />
+
+
 ## Interpretation
 
 These results suggest:
@@ -65,13 +70,10 @@ These results suggest:
 
 ## Key Findings So Far
 
-### Reversed Direct
-- 2-digit: **99.2%**
-- 3-digit: **0.0%**
-
-### Reversed CoT
-- 2-digit: **99.6%**
-- 3-digit: **0.0%**
+| Method | 2-digit Accuracy | 3-digit Accuracy |
+|--------|-----------------|------------------|
+| Direct (reversed) | 99.2% | 0.0% |
+| CoT (reversed)    | 99.6% | 0.0% |
 
 ## Stack
 
