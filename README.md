@@ -2,7 +2,7 @@
 
 ## Direct vs Chain-of-Thought vs Scratchpad on Algorithmic Addition
 
-## TL;DR 🔥
+## TL;DR 
 
 Small transformers can learn addition perfectly in-distribution but completely fail to generalize to longer inputs — even with explicit reasoning (Chain-of-Thought).
 
